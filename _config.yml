@@ -104,16 +104,16 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi. This blog is IT blog. I'm a web developer in korea. Thanks."
   location         : "Korea(Republic of Korea)"
-  email            : "phpbae@gmail.com"
+  email            : "rebch86@daum.net"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/phpbae/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/phpbae"
   gitlab           :
   google_plus      :
   keybase          :
@@ -130,6 +130,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  slideshare       : "https://www.slideshare.net/phpbae"
 
 
 # Reading Files
