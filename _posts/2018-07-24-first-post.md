@@ -2,10 +2,7 @@
 title: "처음으로 글 써보기!"
 search: true
 categories: 
-  - blogs
-tags:
-  - 일상  
-  - 생각
+  - 개발 잡학사전
   
 defaults:
   # _posts
