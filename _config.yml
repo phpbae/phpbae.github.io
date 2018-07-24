@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "mint"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "phpbae's github blog(made by minimal-mistakes jekyll theme)"
+title                    : "phpbae's github blog"
 title_separator          : "-"
 name                     : "phpbae"
-description              : "An amazing website."
+description              : "Hi. This blog is IT blog. I'm a web developer in korea. Thanks."
 url                      : "https://phpbae.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "phpbae"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hi. This blog is IT blog. I'm a web developer in korea. Thanks."
+  location         : "Korea(Republic of Korea)"
+  email            : "phpbae@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
