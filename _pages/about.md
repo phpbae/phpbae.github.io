@@ -1,11 +1,15 @@
 ---
 permalink: /about/
 title: "About"
+profile_img:
+  - url: /assets/images/profile_img.jpg
+    image_path: /assets/images/profile_img.jpg
+    alt: "profile img"
 ---
 
 
 ## Profile
-{% include gallery id="haste_logo" %}
+{% include gallery id="profile_img" %}
 - Name : phpbae
 - Job : Web Developer
 - 이 글 작성기준으로, 2년차 웹 개발자 입니다. 개발자의 지식을 나누고 공유하는 문화를 좋아하고, 좋은 코드를 생산하기 위해(가독성, 구조, 확장성 등) 고민이 많은 사람입니다. 요즘은 퇴사해서, 제 2의 둥지를 찾고 있는데 쉽지 않아 고민이 많습니다.(하하, 나중에 이직성공하면 아마 이 내용은 수정이 되겠죠?)
