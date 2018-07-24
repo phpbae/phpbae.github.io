@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 title:            phpbae's gitgub blog (made by Jekyll theme)
 description:      phpbae's gitgub blog.
