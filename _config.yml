@@ -30,7 +30,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "kr"
+lang: "en"
 author: "phpbae"
 title: "phpbae's github blog"
 description: "phpbae's github blog"
