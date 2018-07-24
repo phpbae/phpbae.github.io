@@ -1,4 +1,9 @@
 ---
+title: "처음으로 글 써보기!"
+search: true
+categories: 
+  - posts
+
 defaults:
   # _posts
   - scope:
@@ -12,6 +17,3 @@ defaults:
       share: true
       related: true
 ---
-
-
-여기다가 내용을 쓰면 되는건가???
