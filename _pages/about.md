@@ -1,12 +1,8 @@
 ---
-permalink: /about/
-title: "About"
-toc: true
-
 defaults:
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
