@@ -1,5 +1,5 @@
 ---
-title: "처음으로 글 써보기!"
+title: "공지사항 및 인사말"
 search: true
 categories: 
   - blogs
@@ -19,6 +19,8 @@ defaults:
 ---
 
 
-#### 내용을 작성해보자.
 
-처음으로, 내용을 작성했습니다. Test.
+#### 안녕하세요? 운영자 phpbae 입니다.
+<font size=10>드디어, github page를 생성했습니다! 정말 구축하면서.. 뭔가 어려움을 겪었지만 네.. 오픈했습니다.. 많이들 와주세요.</font>
+
+
