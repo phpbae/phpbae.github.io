@@ -32,8 +32,8 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook: https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v3.0 # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+  facebook: # https://developers.facebook.com/docs/plugins/comments
+    appid                : 250064018932885
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
