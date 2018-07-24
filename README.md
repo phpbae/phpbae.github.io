@@ -8,7 +8,8 @@
 
 ## 사용 테마 및 참고
 - Jekyll 기반으로 생성
-- Jekyll theme : https://mmistakes.github.io/minimal-mistakes/  
+- Jekyll theme : https://mmistakes.github.io/minimal-mistakes/
+- minimal-mistakes github : https://github.com/mmistakes/minimal-mistakes
 - remote-theme 기능?을 이용해서, 테마를 적용
 - _config.yml 파일을 가져와서, 설정을 해주자
 
