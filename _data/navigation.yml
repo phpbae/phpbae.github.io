@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "글 목록"
-    url: categories/list
+    url: categories/
   - title: "About"
     url: about/
   - title: "Home"
