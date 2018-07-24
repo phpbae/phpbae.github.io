@@ -2,8 +2,11 @@
 title: "처음으로 글 써보기!"
 search: true
 categories: 
-  - posts
-
+  - blogs
+tags:
+  - 일상  
+  - 생각
+  
 defaults:
   # _posts
   - scope:
