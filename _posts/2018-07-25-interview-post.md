@@ -1,5 +1,5 @@
 ---
-title: "2018-07-28 it 코딩시험"
+title: "2018-07-25 it 코딩시험"
 search: true
 categories: 
   - it interview
