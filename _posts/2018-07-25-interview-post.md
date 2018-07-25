@@ -1,6 +1,6 @@
 ---
 title: "2018-07-25 it 코딩시험"
-date: 2018-07-25 13:50:00 -0400
+date: 2018-07-25 13:50:00
 search: true
 categories: 
   - it interview
