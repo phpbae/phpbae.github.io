@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.page__footer {
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    height: auto;
+    margin-top: 3em;
+    color: #fff !important;
+    animation: intro 0.3s both;
+    animation-delay: 0.45s;
+    background-color: #30e3ca;
+}
+
+.page__footer footer {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding: 0 1em 1em;
+}
