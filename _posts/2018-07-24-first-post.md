@@ -1,7 +1,7 @@
 ---
 title: "공지사항 및 인사말"
 search: true
-date: 2018-07-24 22:30:00 -0400
+date: 2018-07-24 22:30:00
 categories: 
   - blogs
   
