@@ -55,3 +55,10 @@
     margin-top: 0;
     font-size: .65em;
 }
+
+
+@media (min-width: 80em)
+.page {
+    width: calc(100% - 300px);
+    padding-right: 180px;
+}
