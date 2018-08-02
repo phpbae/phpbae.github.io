@@ -57,10 +57,11 @@
 }
 
 
-@media (min-width: 80em)
-.page {
-    width: calc(100% - 300px);
-    padding-right: 180px;
+@media (min-width: 80em){
+    .page {
+        width: calc(100% - 300px);
+        padding-right: 180px;
+    }
 }
 
 
